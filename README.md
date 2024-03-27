@@ -65,7 +65,7 @@ The data set contains 371 different smartwatch models with different specificati
 
 # Data Visualization and Findings
 ---
-![](GroupProjectViz2)
+![](GroupProjectViz2.png)
 
 # Glossary:
 ---
