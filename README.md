@@ -65,7 +65,35 @@ The data set contains 371 different smartwatch models with different specificati
 
 # Data Visualization and Findings
 ---
+
+![](GroupProjectViz1.png)
+
+*Findings*
+1. There are a total of 371 smartwatches in the dataset with 38 distinct brands, 133 distinct model of smartwatches, and 24 different display type of smartwatches. From the data, there are 344 GPS enabled smartwatches and the average price of a smartwatch is $312.
+
+2. Wear OS is the most used operating system by the smartwatches in this data totalling 38% of the total smartwatches. It is followed by Garmin OS which is used by 9% of the smartwatches.
+
+3. AMOLED is the most common display type featured by the smartwatches in this data totalling up to 56% of the total smartwatches.
+
+4. Despite that Wear OS is the most used operating system, Smartwatches with Garmin Operating system is more expensive in terms of price compared to Wear OS. On the average, a smartwatch with Garmin operating system costs $470.
+
+5. Despite that AMOLED display type is used by 56% of the smart watches and OLED display type is used by 4%, smartwatches with OLED display type are higher in price ($576) compared to AMOLED ($304).
+
+6. The price of the smartwatches are not affected by NFC feature. However, when compared with the GPS feature, the price of the smart watch increases with or without NFC features, suggesting that GPS feature most likely increases the price of the smartwatches unlike the NFC features.
+
+7. Smartwatches with the cellular type of connectivity have higher price compared to those with the GPS connectivity. This suggests that cellular connectivity is more preferred in a smartwatch.
+
+8. The Maximum battery life of a wristwatch in the dataset is 72 days while the minimum is 1 day.
+
+
 ![](GroupProjectViz2.png)
+
+Findings
+1. Smartwatch model Pro 3 has the maximum battery life of 72 days, followed by Enduro with 70 days, Galaxy Watch at 60 days, and Galaxy Watch 3 at 56 days
+
+2. Access Brad, Access Gen 5, Access Runway, C2, Falster 2, Falster 3, and G-Shock GS all have a minimum battery life of 1 day.
+
+3. The TAG Heuer smartwatch brand is the most expensive with the average price of $1,537 while Xiaomi smartwatch brand is the least expensive with the average price of $137 USD.
 
 # Glossary:
 ---
